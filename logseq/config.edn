@@ -67,7 +67,7 @@
  ;; E.g. [["js" "Javascript"]]
  :commands
  []
-:date-formatter "yyyy.MM.dd(ee)"
+:date-formatter "yyyy.MM.dd(ddd)"
  
  ;; Macros replace texts and will make you more productive.
  ;; For example:
