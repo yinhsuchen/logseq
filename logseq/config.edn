@@ -77,3 +77,4 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
  :ui/show-brackets? false}
+:date-formatter "yyyy-MM-dd"
