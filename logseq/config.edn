@@ -67,7 +67,7 @@
  ;; E.g. [["js" "Javascript"]]
  :commands
  []
- 
+
  ;; Macros replace texts and will make you more productive.
  ;; For example:
  ;; Add this to the macros below:
@@ -75,6 +75,4 @@
  ;; input "{{{poem(red,blue)}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
- :ui/show-brackets? false}
-:date-formatter "yyyy-MM-dd"
+ :macros {}}
