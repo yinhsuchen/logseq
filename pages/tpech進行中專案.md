@@ -7,7 +7,7 @@ title: TPECH進行中專案
 :PROPERTIES:
 :id: 603752ed-ad13-4de6-99a5-116662650169
 :END:
-### !KM-帳號
+### [[!KM-帳號]] 
 :PROPERTIES:
 :id: 603752f3-6b58-4267-a155-3fa18349c80d
 :END:
