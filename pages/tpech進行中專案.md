@@ -11,6 +11,9 @@ title: TPECH進行中專案
 ### !KM-系統
 ### !Covid-19大事記
 ## !防疫旅館
+:PROPERTIES:
+:id: 60375301-1893-47ba-ae99-e3ffec0fbead
+:END:
 ### !防疫旅館-杏翔
 ## !檢疫所
 ### !經費-災準金
