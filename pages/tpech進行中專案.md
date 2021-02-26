@@ -11,7 +11,7 @@ title: TPECH進行中專案
 :PROPERTIES:
 :id: 603752f3-6b58-4267-a155-3fa18349c80d
 :END:
-### !KM-系統
+### [[!KM-系統]]
 ### !Covid-19大事記
 ## !防疫旅館
 :PROPERTIES:
